@@ -12,4 +12,6 @@ submitButton.addEventListener("click", function(){
       const quantity=quantityInput.value;
 
       const totalPrice=price*quantity;
+
+      thanksBox.innerHTML=`Thanks ${customerName}, your total is $` + totalPrice;
 })
