@@ -1,0 +1,28 @@
+#wrapper {
+    width:500px;
+    height:500px;
+    background-color: darkgray;
+    color:blue;
+align-items: center;
+    text-align:center;
+}
+h1{
+    padding-top:15px;
+
+}
+#nameBox p {
+    color: black;
+    margin-bottom: 5px;
+}
+#itemBox p {
+    color: black;
+    margin-bottom: 5px;
+}
+
+#qBox p{
+    color:black;
+    margin-bottom: 5px;
+}
+#thanks{
+    color:green;
+}
